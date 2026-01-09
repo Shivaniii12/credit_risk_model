@@ -81,5 +81,3 @@ The trained model is deployed using **Streamlit** to provide an interactive inte
 👉 https://credit-risk-predictions-model.streamlit.app/
 
 ---
-
-## Project Structure
